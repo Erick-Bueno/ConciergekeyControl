@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConciergeKeyControl.Api", "ConciergeKeyControl.Api\ConciergeKeyControl.Api.csproj", "{79223904-9E66-4B05-A8AA-84657E23920C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConciergeKeyControl.Application", "ConciergeKeyControl.Application\ConciergeKeyControl.Application.csproj", "{A5923E4D-B762-4AA6-88DE-05F6A1DFF62A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{79223904-9E66-4B05-A8AA-84657E23920C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79223904-9E66-4B05-A8AA-84657E23920C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79223904-9E66-4B05-A8AA-84657E23920C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5923E4D-B762-4AA6-88DE-05F6A1DFF62A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5923E4D-B762-4AA6-88DE-05F6A1DFF62A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5923E4D-B762-4AA6-88DE-05F6A1DFF62A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5923E4D-B762-4AA6-88DE-05F6A1DFF62A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
