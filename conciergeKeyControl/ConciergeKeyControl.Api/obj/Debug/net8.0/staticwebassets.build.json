@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2nN3H9B3VZHQOmWyZotHw37+BjZIy6mt4zDqvnZ8vRw=",
+  "Source": "ConciergeKeyControl.Api",
+  "BasePath": "_content/ConciergeKeyControl.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
