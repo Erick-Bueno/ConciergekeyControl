@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConciergeKeyControl.Applica
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConciergeKeyControl.Domain", "ConciergeKeyControl.Domain\ConciergeKeyControl.Domain.csproj", "{C2497405-B259-424C-8AF5-E2683BEDA86C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConciergeKeyControl.Infrastructure", "ConciergeKeyControl.Infrastructure\ConciergeKeyControl.Infrastructure.csproj", "{6835B9CE-88BF-4947-AFE8-3E5F945AB609}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{C2497405-B259-424C-8AF5-E2683BEDA86C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2497405-B259-424C-8AF5-E2683BEDA86C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2497405-B259-424C-8AF5-E2683BEDA86C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6835B9CE-88BF-4947-AFE8-3E5F945AB609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6835B9CE-88BF-4947-AFE8-3E5F945AB609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6835B9CE-88BF-4947-AFE8-3E5F945AB609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6835B9CE-88BF-4947-AFE8-3E5F945AB609}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
