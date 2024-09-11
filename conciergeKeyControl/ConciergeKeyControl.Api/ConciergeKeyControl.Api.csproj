@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ConciergeKeyControl.Application\ConciergeKeyControl.Application.csproj" />
+    <ProjectReference Include="..\ConciergeKeyControl.Infrastructure\ConciergeKeyControl.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
