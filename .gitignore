@@ -1,8 +1,8 @@
-ConciergeKeyControl.Api/obj/
-ConciergeKeyControl.Application/obj/
-ConciergeKeyControl.Domain/obj/
-ConciergeKeyControl.Infrastructure/obj/
-ConciergeKeyControl.Api/bin/
-ConciergeKeyControl.Application/bin/
-ConciergeKeyControl.Infrastructure/bin/
-ConciergeKeyControl.Domain/bin/
+conciergeKeyControl/ConciergeKeyControl.Api/bin/
+conciergeKeyControl/ConciergeKeyControl.Api/obj/
+conciergeKeyControl/ConciergeKeyControl.Application/bin/
+conciergeKeyControl/ConciergeKeyControl.Application/obj/
+conciergeKeyControl/ConciergeKeyControl.Domain/bin/
+conciergeKeyControl/ConciergeKeyControl.Domain/obj/
+conciergeKeyControl/ConciergeKeyControl.Infrastructure/bin/
+conciergeKeyControl/ConciergeKeyControl.Infrastructure/obj/
