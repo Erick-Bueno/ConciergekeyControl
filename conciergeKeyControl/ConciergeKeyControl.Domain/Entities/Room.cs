@@ -5,8 +5,7 @@ public class Room
     public string name { get; private set; }
     public DateTime createdAt { get; private set; }
     public DateTime updatedAt { get; private set; }
-    public Room()
-    {
+    public Room(){
         externalId = Guid.NewGuid();
         createdAt = DateTime.UtcNow;
         updatedAt = DateTime.UtcNow;
