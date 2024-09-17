@@ -4,6 +4,7 @@ public class Room{
     public string name { get; private set; }
     public DateTime createdAt { get; private set; }
     public DateTime updatedAt { get; private set; }
+    public List<Key> keys { get; private set; }
     public Room(){
         externalId = Guid.NewGuid();
         createdAt = DateTime.UtcNow;

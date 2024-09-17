@@ -5,6 +5,7 @@ public class User{
     public string iv { get; private set;}
     public DateTime createdAt { get; private set; }
     public DateTime updatedAt { get; private set; }
+    public List<Report> reports { get; private set; }
     public User(){
         externalId = Guid.NewGuid();
         createdAt = DateTime.UtcNow;

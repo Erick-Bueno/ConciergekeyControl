@@ -5,6 +5,7 @@ public class Key{
     public DateTime createdAt { get; private set; }
     public DateTime updatedAt { get; private set; }
     public Room room { get; private set; }
+    public List<Report> reports { get; private set; }
     public Key(){
         externalId = Guid.NewGuid();
         createdAt = DateTime.UtcNow;
