@@ -1,5 +1,4 @@
-public class Token
-{
+public class Token{
     public int id { get; private set; }
     public Guid externalId { get; private set; }
     public string email { get; private set; }

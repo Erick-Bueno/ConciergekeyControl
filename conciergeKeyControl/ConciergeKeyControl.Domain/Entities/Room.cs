@@ -1,5 +1,4 @@
-public class Room
-{
+public class Room{
     public int id { get; private set; }
     public Guid externalId { get; private set; }
     public string name { get; private set; }
