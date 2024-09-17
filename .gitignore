@@ -2,3 +2,7 @@ ConciergeKeyControl.Api/obj
 ConciergeKeyControl.Application/obj
 ConciergeKeyControl.Domain/obj
 ConciergeKeyControl.Infrastructure/obj
+ConciergeKeyControl.Api/bin
+ConciergeKeyControl.Application/bin
+ConciergeKeyControl.Infrastructure/bin
+ConciergeKeyControl.Domain/bin
