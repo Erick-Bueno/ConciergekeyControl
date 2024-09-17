@@ -1,0 +1,12 @@
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\ConciergeKeyControl\src\conciergeKeyControl\ConciergeKeyControl.Domain\bin\Debug\net8.0\ConciergeKeyControl.Domain.deps.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\ConciergeKeyControl\src\conciergeKeyControl\ConciergeKeyControl.Domain\bin\Debug\net8.0\ConciergeKeyControl.Domain.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\ConciergeKeyControl\src\conciergeKeyControl\ConciergeKeyControl.Domain\bin\Debug\net8.0\ConciergeKeyControl.Domain.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\ConciergeKeyControl\src\conciergeKeyControl\ConciergeKeyControl.Domain\obj\Debug\net8.0\ConciergeKeyControl.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\ConciergeKeyControl\src\conciergeKeyControl\ConciergeKeyControl.Domain\obj\Debug\net8.0\ConciergeKeyControl.Domain.AssemblyInfoInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\ConciergeKeyControl\src\conciergeKeyControl\ConciergeKeyControl.Domain\obj\Debug\net8.0\ConciergeKeyControl.Domain.AssemblyInfo.cs
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\ConciergeKeyControl\src\conciergeKeyControl\ConciergeKeyControl.Domain\obj\Debug\net8.0\ConciergeKeyControl.Domain.csproj.CoreCompileInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\ConciergeKeyControl\src\conciergeKeyControl\ConciergeKeyControl.Domain\obj\Debug\net8.0\ConciergeKeyControl.Domain.sourcelink.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\ConciergeKeyControl\src\conciergeKeyControl\ConciergeKeyControl.Domain\obj\Debug\net8.0\ConciergeKeyControl.Domain.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\ConciergeKeyControl\src\conciergeKeyControl\ConciergeKeyControl.Domain\obj\Debug\net8.0\refint\ConciergeKeyControl.Domain.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\ConciergeKeyControl\src\conciergeKeyControl\ConciergeKeyControl.Domain\obj\Debug\net8.0\ConciergeKeyControl.Domain.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\ConciergeKeyControl\src\conciergeKeyControl\ConciergeKeyControl.Domain\obj\Debug\net8.0\ref\ConciergeKeyControl.Domain.dll
