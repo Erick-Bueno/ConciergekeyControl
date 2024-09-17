@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Api\\ConciergeKeyControl.Api.csproj": {}
+    "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Api\\ConciergeKeyControl.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Api\\ConciergeKeyControl.Api.csproj": {
+    "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Api\\ConciergeKeyControl.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Api\\ConciergeKeyControl.Api.csproj",
+        "projectUniqueName": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Api\\ConciergeKeyControl.Api.csproj",
         "projectName": "ConciergeKeyControl.Api",
-        "projectPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Api\\ConciergeKeyControl.Api.csproj",
+        "projectPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Api\\ConciergeKeyControl.Api.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Api\\obj\\",
+        "outputPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Application\\ConciergeKeyControl.Application.csproj": {
-                "projectPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Application\\ConciergeKeyControl.Application.csproj"
+              "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Application\\ConciergeKeyControl.Application.csproj": {
+                "projectPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Application\\ConciergeKeyControl.Application.csproj"
               },
-              "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Infrastructure\\ConciergeKeyControl.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Infrastructure\\ConciergeKeyControl.Infrastructure.csproj"
+              "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Infrastructure\\ConciergeKeyControl.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Infrastructure\\ConciergeKeyControl.Infrastructure.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Application\\ConciergeKeyControl.Application.csproj": {
+    "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Application\\ConciergeKeyControl.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Application\\ConciergeKeyControl.Application.csproj",
+        "projectUniqueName": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Application\\ConciergeKeyControl.Application.csproj",
         "projectName": "ConciergeKeyControl.Application",
-        "projectPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Application\\ConciergeKeyControl.Application.csproj",
+        "projectPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Application\\ConciergeKeyControl.Application.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Application\\obj\\",
+        "outputPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -95,8 +95,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Domain\\ConciergeKeyControl.Domain.csproj": {
-                "projectPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Domain\\ConciergeKeyControl.Domain.csproj"
+              "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Domain\\ConciergeKeyControl.Domain.csproj": {
+                "projectPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Domain\\ConciergeKeyControl.Domain.csproj"
               }
             }
           }
@@ -130,14 +130,14 @@
         }
       }
     },
-    "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Domain\\ConciergeKeyControl.Domain.csproj": {
+    "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Domain\\ConciergeKeyControl.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Domain\\ConciergeKeyControl.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Domain\\ConciergeKeyControl.Domain.csproj",
         "projectName": "ConciergeKeyControl.Domain",
-        "projectPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Domain\\ConciergeKeyControl.Domain.csproj",
+        "projectPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Domain\\ConciergeKeyControl.Domain.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Domain\\obj\\",
+        "outputPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -183,14 +183,14 @@
         }
       }
     },
-    "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Infrastructure\\ConciergeKeyControl.Infrastructure.csproj": {
+    "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Infrastructure\\ConciergeKeyControl.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Infrastructure\\ConciergeKeyControl.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Infrastructure\\ConciergeKeyControl.Infrastructure.csproj",
         "projectName": "ConciergeKeyControl.Infrastructure",
-        "projectPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Infrastructure\\ConciergeKeyControl.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Infrastructure\\ConciergeKeyControl.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -205,8 +205,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Application\\ConciergeKeyControl.Application.csproj": {
-                "projectPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Application\\ConciergeKeyControl.Application.csproj"
+              "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Application\\ConciergeKeyControl.Application.csproj": {
+                "projectPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Application\\ConciergeKeyControl.Application.csproj"
               }
             }
           }

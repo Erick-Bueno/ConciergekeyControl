@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Domain\\ConciergeKeyControl.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Domain\\ConciergeKeyControl.Domain.csproj",
       "projectName": "ConciergeKeyControl.Domain",
-      "projectPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Domain\\ConciergeKeyControl.Domain.csproj",
+      "projectPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Domain\\ConciergeKeyControl.Domain.csproj",
       "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\penis\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Domain\\obj\\",
+      "outputPath": "C:\\Users\\erick\\Documents\\Linguas-20220714T235342Z-001\\Linguas\\C#\\keycontrol\\ConciergekeyControl\\conciergeKeyControl\\ConciergeKeyControl.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
