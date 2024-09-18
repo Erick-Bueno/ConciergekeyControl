@@ -1,9 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-
-public class AppDbContext : DbContext
-{
-    public AppDbContext(DbContextOptions options) : base(options)
-    {
+public class AppDbContext : DbContext{
+    public AppDbContext(DbContextOptions options) : base(options){
     }
     public DbSet<User> users { get; set; }
     public DbSet<Key> keys { get; set; }
@@ -11,8 +8,7 @@ public class AppDbContext : DbContext
     public DbSet<Token> tokens { get; set; }
     public DbSet<Room> rooms { get; set; }
 
-    protected override void OnModelCreating(ModelBuilder modelBuilder)
-    {
+    protected override void OnModelCreating(ModelBuilder modelBuilder){
         modelBuilder.ApplyConfiguration(new KeyEntityConfiguration());
         modelBuilder.ApplyConfiguration(new UserEntityConfiguration());
         modelBuilder.ApplyConfiguration(new RoomEntityConfiguration());
