@@ -13,4 +13,20 @@ public class User{
         createdAt = DateTime.UtcNow;
         updatedAt = DateTime.UtcNow;
     }
+    public User setName(string name){
+        this.name = name;
+        return this;
+    }
+    public User setEmail(string email){
+        this.email = email;
+        return this;
+    }
+    public User setPassword(string password){
+        this.password = password;
+        return this;
+    }
+    public User setIv(string iv){
+        this.iv = iv;
+        return this;
+    }
 }
