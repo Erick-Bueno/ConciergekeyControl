@@ -1,4 +1,3 @@
-public interface IUserRepository
-{
+public interface IUserRepository{
     public User FindUserByEmail(string email);
 }
