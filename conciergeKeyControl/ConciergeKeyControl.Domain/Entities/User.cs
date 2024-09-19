@@ -2,6 +2,8 @@ public class User{
     public int id { get; private set; }
     public Guid externalId {get; private set;}
     public string name { get; private set;}
+    public string email { get; private set;}
+    public string password { get; private set;}
     public string iv { get; private set;}
     public DateTime createdAt { get; private set; }
     public DateTime updatedAt { get; private set; }
