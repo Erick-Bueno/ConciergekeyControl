@@ -1,0 +1,1 @@
+public record Error(string errorType, string errorCodeName);
