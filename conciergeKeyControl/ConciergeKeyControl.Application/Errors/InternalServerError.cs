@@ -1,3 +1,3 @@
 using System.Runtime.CompilerServices;
 
-public record InternalServerError(string detail) : Error(ErrorType.InternalServer.ToString(), nameof(InternalServerError));
+public record InternalServerError(string Detail) : Error(ErrorType.InternalServer.ToString(), nameof(InternalServerError));
