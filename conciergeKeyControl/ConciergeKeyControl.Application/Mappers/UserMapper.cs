@@ -2,9 +2,9 @@ public class UserMapper
 {
     public static User ToEntity(UserRegisterDto userRegisterDto, string iv){
         var user = new User()
-        .setEmail(userRegisterDto.email)
-        .setName(userRegisterDto.name)
-        .setPassword(userRegisterDto.password)
+        .setEmail(userRegisterDto.Email)
+        .setName(userRegisterDto.Name)
+        .setPassword(userRegisterDto.Password)
         .setIv(iv);
         return user;
     }
