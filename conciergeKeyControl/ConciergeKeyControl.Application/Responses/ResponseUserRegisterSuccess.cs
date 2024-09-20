@@ -1,6 +1,6 @@
 public class ResponseUserRegisterSuccess
 {
-    public int status { get; set; }
-    public string message { get; set; }
+    public int Status { get; set; }
+    public string Message { get; set; }
     
 }
