@@ -1,1 +1,1 @@
-public record Error(string ErrorType, string ErrorCodeName);
+public record Error(string TypeError, string ErrorCodeName);

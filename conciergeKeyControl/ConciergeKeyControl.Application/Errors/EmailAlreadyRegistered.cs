@@ -1,1 +1,1 @@
-public record EmailAlreadyRegistered(string detail) : Error(ErrorType.Validation.ToString(), nameof(EmailAlreadyRegistered));
+public record EmailAlreadyRegistered(string Detail) : Error(ErrorType.Validation.ToString(), nameof(EmailAlreadyRegistered));
