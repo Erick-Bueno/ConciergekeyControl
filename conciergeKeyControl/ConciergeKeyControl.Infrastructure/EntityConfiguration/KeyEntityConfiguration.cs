@@ -4,10 +4,10 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 public class KeyEntityConfiguration : IEntityTypeConfiguration<Key>{
     public void Configure(EntityTypeBuilder<Key> builder){
-        builder.HasKey(k => k.id);
-        builder.HasIndex(k => k.externalId);
-        builder.HasOne(k => k.room)
-        .WithMany(r => r.keys)
-        .HasForeignKey(k => k.idRoom);
+        builder.HasKey(k => k.Id);
+        builder.HasIndex(k => k.ExternalId);
+        builder.HasOne(k => k.Room)
+        .WithMany(r => r.Keys)
+        .HasForeignKey(k => k.IdRoom);
     }
 }
