@@ -3,12 +3,12 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 public class UserEntityConfiguration : IEntityTypeConfiguration<User>{
     public void Configure(EntityTypeBuilder<User> builder){
-        builder.HasKey(u => u.id);
-        builder.HasIndex(u => u.externalId);
-        builder.Property(u => u.name).IsRequired().HasMaxLength(200);
-        builder.Property(u => u.email).IsRequired().HasMaxLength(200);
-        builder.Property(u => u.password).IsRequired().HasMaxLength(400);
-        builder.Property(u => u.iv).IsRequired().HasMaxLength(300);
+        builder.HasKey(u => u.Id);
+        builder.HasIndex(u => u.ExternalId);
+        builder.Property(u => u.Name).IsRequired().HasMaxLength(200);
+        builder.Property(u => u.Email).IsRequired().HasMaxLength(200);
+        builder.Property(u => u.Password).IsRequired().HasMaxLength(400);
+        builder.Property(u => u.Iv).IsRequired().HasMaxLength(300);
 
     }
 }
