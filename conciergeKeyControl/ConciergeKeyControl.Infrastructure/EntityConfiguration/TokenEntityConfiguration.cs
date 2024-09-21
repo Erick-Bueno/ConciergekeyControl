@@ -3,9 +3,9 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 public class TokenEntityConfiguration : IEntityTypeConfiguration<Token>{
     public void Configure(EntityTypeBuilder<Token> builder){
-        builder.HasKey(t => t.id);
-        builder.HasIndex(t => t.externalId);
-        builder.Property(t => t.email).IsRequired().HasMaxLength(200);
-        builder.Property(t => t.refreshToken).IsRequired().HasMaxLength(300);
+        builder.HasKey(t => t.Id);
+        builder.HasIndex(t => t.ExternalId);
+        builder.Property(t => t.Email).IsRequired().HasMaxLength(200);
+        builder.Property(t => t.RefreshToken).IsRequired().HasMaxLength(300);
     }
 }
