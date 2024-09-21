@@ -1,14 +1,14 @@
 public class UserRepository : IUserRepository
 {
-    private readonly AppDbContext _appDbContext;
+    private readonly AppDbContext _AppDbContext;
 
     public UserRepository(AppDbContext appDbContext)
     {
-        _appDbContext = appDbContext;
+        _AppDbContext = appDbContext;
     }
 
     public User FindUserByEmail(string email)
     {
-        return _appDbContext.users.Where(u => u.email == email).SingleOrDefault();
+        return _AppDbContext.users.Where(u => u.Email == email).SingleOrDefault();
     }
 }
