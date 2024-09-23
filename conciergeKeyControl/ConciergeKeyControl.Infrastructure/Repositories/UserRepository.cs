@@ -8,11 +8,10 @@ public class UserRepository : IUserRepository
         _AppDbContext = appDbContext;
     }
 
-    public async Task<User> CreateUser(User user)
+    public async Task CreateUser(User user)
     {
         await _AppDbContext.users.AddAsync(user);
         await _AppDbContext.SaveChangesAsync();
-        return user;
     }
 
     public User FindUserByEmail(string email)
