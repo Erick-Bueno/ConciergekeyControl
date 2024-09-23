@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConciergeKeyControl.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f516fa7ffdb7f95e80ab39c79fbe55846a6ed875")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e64c4a6aa525a5bf826859416f88b8b59e9ce58")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConciergeKeyControl.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConciergeKeyControl.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
