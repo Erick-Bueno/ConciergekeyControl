@@ -11,7 +11,7 @@ public class AuthService : IAuhtService{
         _Aes256 = aes256;
     }
 
-    public async Task<OneOf<Error, ResponseUserRegisterSuccess>> Register(UserRegisterDto userRegisterDto){
+    public async Task<OneOf<ResponseUserRegisterSuccess, Error>> Register(UserRegisterDto userRegisterDto){
         try
         {
             var user = _UserRepository.FindUserByEmail(userRegisterDto.Email);
