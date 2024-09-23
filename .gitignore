@@ -1,5 +1,7 @@
 conciergeKeyControl/ConciergeKeyControl.Api/bin/
 conciergeKeyControl/ConciergeKeyControl.Api/obj/
+conciergeKeyControl/ConciergeKeyControl.Test/bin/
+conciergeKeyControl/ConciergeKeyControl.Test/obj/
 conciergeKeyControl/ConciergeKeyControl.Api/appsettings.Development.json
 conciergeKeyControl/ConciergeKeyControl.Application/bin/
 conciergeKeyControl/ConciergeKeyControl.Application/obj/
