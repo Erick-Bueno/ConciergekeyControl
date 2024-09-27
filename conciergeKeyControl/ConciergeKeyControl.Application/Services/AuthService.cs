@@ -5,15 +5,14 @@ public class AuthService : IAuhtService{
     private readonly IConfiguration _Configuration;
     private readonly IAes256 _Aes256;
 
-    public AuthService(IUserRepository userRepository, IAes256 aes256)
-    {
+    public AuthService(IUserRepository userRepository, IAes256 aes256, IConfiguration configuration){
         _UserRepository = userRepository;
         _Aes256 = aes256;
+        _Configuration = configuration;
     }
 
     public async Task<OneOf<ResponseUserRegisterSuccess, Error>> Register(UserRegisterDto userRegisterDto){
-        try
-        {
+        try{
             var user = _UserRepository.FindUserByEmail(userRegisterDto.Email);
             if(user is not null){
                 return new EmailAlreadyRegistered("Email ja cadastrado");
@@ -24,8 +23,7 @@ public class AuthService : IAuhtService{
             await _UserRepository.CreateUser(newUser);
             return new ResponseUserRegisterSuccess(201, "Usuário cadastrado com sucesso");
         }
-        catch (Exception ex)
-        {
+        catch (Exception ex){
             return new InternalServerError(ex.Message);
         }
     }
