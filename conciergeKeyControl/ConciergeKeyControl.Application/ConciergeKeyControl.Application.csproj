@@ -7,6 +7,15 @@
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.0"/>
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.0.0"/>
   </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Interfaces\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Remove="Interfaces\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Interfaces\**" />
+  </ItemGroup>
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
